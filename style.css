@@ -1,0 +1,156 @@
+.main{
+    background-color: grey;
+}
+
+.about{
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: 30px;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70pxs;
+}
+
+.nav{
+  
+   color: black;
+   margin-right: 50px;
+   margin-top: 16px; 
+   margin-bottom: 16px; 
+   margin-left: 50px;
+}
+.fa {
+    padding: 20px;
+    font-size: 14px;
+    margin: 5px 2px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+.fa-linkedin {
+    background: #172ca8;
+    color: white;
+  }
+
+.fa-instagram {
+    background: #da28da;
+    color: rgb(19, 18, 18);
+  }
+  .fa-facebook {
+    background: #5653eb;
+    color: white;
+  }
+  .bio{
+    border: 5px ;
+    top: 50%;
+    padding: 10px;
+    font-size: medium;
+  }
+
+.video{
+    width: 100%;
+
+}
+
+.Menu{
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    align-items: center;
+    margin-left: 62px;
+    margin-top: 27px;
+    position: relative;
+    text-align: center;
+    color:white;
+   
+     
+}
+.Address{
+    color: brown;
+font-family: Arial, Helvetica, sans-serif;
+font-size: medium;
+}
+
+
+.MyInfo{
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+
+
+* {box-sizing:border-box}
+
+
+.skillContainer {
+  width: 100%;
+  background-color: grey;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  color: white; 
+}
+.mainAbout{ 
+  background-image: url("back.jpg");
+}
+
+.html {
+  width: 85%; background-color: tomato;
+} 
+.css {
+  width: 80%; background-color: #2196F3;
+}
+.cplus {
+  width: 80%; background-color: blueviolet;
+} 
+.java {
+  width: 65%; background-color: #f44336;
+} 
+.sql{
+  width: 60%; background-color:blueviolet;
+}
+.Communication{
+  width: 100%; background-color:blueviolet;
+}
+.Teamwork{
+  width: 100%;background-color: red;
+}
+.Confidence{
+  width: 100%;background-color: aqua;
+}
+.manage{
+  width: 90%;background-color: red;
+}
+.flexi{
+  width: 80%;background-color: orangered;
+}
+
+
+.image{
+  position: relative;
+  text-align: center;
+  color: black;
+  font-size: 30px;
+}
+.center{
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
