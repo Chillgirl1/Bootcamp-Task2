@@ -153,4 +153,9 @@ font-size: medium;
   bottom: 8px;
   right: 16px;
 }
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
 
